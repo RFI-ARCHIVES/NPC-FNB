@@ -1,0 +1,13 @@
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\bin\Debug\SPR16-FNB.exe.config
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\bin\Debug\SPR16-FNB.exe
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\bin\Debug\SPR16-FNB.pdb
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16-FNB.csprojResolveAssemblyReference.cache
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16_FNB.Form1.resources
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16_FNB.frmCustomer.resources
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16_FNB.Properties.Resources.resources
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16-FNB.csproj.GenerateResource.Cache
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16-FNB.exe
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB\SPR16-FNB\obj\Debug\SPR16-FNB.pdb
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB - Copy\SPR16-FNB\bin\Debug\SPR16-FNB.exe.config
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB - Copy\SPR16-FNB\obj\Debug\SPR16-FNB.exe
+C:\Users\rivers\Desktop\PROGII\SPR16-FNB - Copy\SPR16-FNB\obj\Debug\SPR16-FNB.pdb
